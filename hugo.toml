@@ -1,0 +1,40 @@
+baseURL = "https://yourdomain.in/"
+languageCode = "en-us"
+title = "Your Site Name"
+theme = "PaperMod"
+
+[params]
+  homeInfoParams = {Title = "Hi there 👋", Content = "Welcome to my CyberArk blog"}
+  ShowReadingTime = true
+  ShowTags = true
+  ShowCategories = true
+  ShowBreadCrumbs = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[[menus.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menus.main]]
+  name = "Categories"
+  url = "/categories/"
+  weight = 2
+
+[[menus.main]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 3
+
+[[menus.main]]
+  name = "Archives"
+  url = "/archives/"
+  weight = 4
+
+[[menus.main]]
+  name = "About"
+  url = "/about/"
+  weight = 5
