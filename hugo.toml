@@ -44,11 +44,7 @@ pygmentsUseClasses = true
   
   [params.homeInfoParams]
     Title = "🔐 Welcome to PAM Tutorials"
-    Content = """
-    Your comprehensive resource for **CyberArk Privileged Access Management**
-    
-    Learn implementation, best practices, and advanced configurations through detailed tutorials and guides.
-    """
+    Content = "Your comprehensive resource for **CyberArk Privileged Access Management**. Learn implementation, best practices, and advanced configurations through detailed tutorials and guides."
 
   [[params.socialIcons]]
     name = "github"
