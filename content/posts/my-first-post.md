@@ -33,7 +33,7 @@ Before you begin, ensure you have:
 
 Navigate to your CyberArk Privilege Cloud portal using the URL provided during onboarding:
 ```
-https://[your-subdomain].privilegecloud.cyberark.cloud
+https://[your-subdomain].cyberark.cloud
 ```
 
 Log in with your administrator credentials.
@@ -67,7 +67,7 @@ Start onboarding accounts:
 Deploy necessary components:
 - **PSM (Privileged Session Manager)** - For session isolation
 - **CPM (Central Policy Manager)** - For password management
-- **PVWA (Password Vault Web Access)** - Already included in cloud
+
 
 ### 6. Configure Access Policies
 
