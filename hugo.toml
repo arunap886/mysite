@@ -2,10 +2,33 @@ baseURL = "https://pamtutorials.com/"
 languageCode = "en-us"
 title = "PAM Tutorials - CyberArk Privileged Access Management"
 theme = "PaperMod"
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = true
+pygmentsUseClasses = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = true
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = false
+    style = "monokai"
 
 [params]
   description = "Comprehensive tutorials and guides for CyberArk Privileged Access Management (PAM) solutions. Learn about Privilege Cloud, implementation, security best practices, and troubleshooting."
   author = "PAM Tutorials"
+  
+  defaultTheme = "auto"
+  disableThemeToggle = false
+  
   ShowReadingTime = true
   ShowTags = true
   ShowCategories = true
@@ -14,10 +37,18 @@ theme = "PaperMod"
   ShowCodeCopyButtons = true
   ShowShareButtons = true
   ShowRssButtonInSectionTermList = true
+  ShowWordCount = true
+  ShowLastMod = true
+  ShowToc = true
+  TocOpen = false
   
   [params.homeInfoParams]
-    Title = "Welcome to PAM Tutorials"
-    Content = "Your comprehensive resource for CyberArk Privileged Access Management"
+    Title = "🔐 Welcome to PAM Tutorials"
+    Content = """
+    Your comprehensive resource for **CyberArk Privileged Access Management**
+    
+    Learn implementation, best practices, and advanced configurations through detailed tutorials and guides.
+    """
 
   [[params.socialIcons]]
     name = "github"
@@ -29,6 +60,19 @@ theme = "PaperMod"
 
   [params.cover]
     linkFullImages = true
+    responsiveImages = true
+
+  [params.label]
+    text = "PAM Tutorials"
+    icon = "🔐"
+    iconHeight = 35
+
+  [params.profileMode]
+    enabled = false
+
+  [params.assets]
+    disableHLJS = false
+    disableFingerprinting = false
 
   [params.fuseOpts]
     isCaseSensitive = false
