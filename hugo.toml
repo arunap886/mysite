@@ -1,14 +1,43 @@
-baseURL = "https://yourdomain.in/"
+baseURL = "https://pamtutorials.com/"
 languageCode = "en-us"
-title = "Your Site Name"
+title = "PAM Tutorials - CyberArk Privileged Access Management"
 theme = "PaperMod"
 
 [params]
-  homeInfoParams = {Title = "Hi there 👋", Content = "Welcome to my CyberArk blog"}
+  description = "Comprehensive tutorials and guides for CyberArk Privileged Access Management (PAM) solutions. Learn about Privilege Cloud, implementation, security best practices, and troubleshooting."
+  author = "PAM Tutorials"
   ShowReadingTime = true
   ShowTags = true
   ShowCategories = true
   ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+  ShowShareButtons = true
+  ShowRssButtonInSectionTermList = true
+  
+  [params.homeInfoParams]
+    Title = "Welcome to PAM Tutorials"
+    Content = "Your comprehensive resource for CyberArk Privileged Access Management"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/arunap886"
+
+  [[params.socialIcons]]
+    name = "rss"
+    url = "/index.xml"
+
+  [params.cover]
+    linkFullImages = true
+
+  [params.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    location = 0
+    distance = 1000
+    threshold = 0.4
+    minMatchCharLength = 0
+    keys = ["title", "permalink", "summary", "content"]
 
 [taxonomies]
   category = "categories"
@@ -35,6 +64,11 @@ theme = "PaperMod"
   weight = 4
 
 [[menus.main]]
+  name = "Search"
+  url = "/search/"
+  weight = 5
+
+[[menus.main]]
   name = "About"
   url = "/about/"
-  weight = 5
+  weight = 6
