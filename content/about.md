@@ -50,7 +50,6 @@ Every tutorial on PAM Tutorials is:
 
 Have questions, suggestions, or topics you'd like us to cover? We'd love to hear from you!
 
-- **GitHub**: [github.com/arunap886](https://github.com/arunap886)
 - **RSS Feed**: Subscribe to stay updated with new content
 
 ### Disclaimer
