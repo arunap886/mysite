@@ -1,39 +1,55 @@
 ---
-title: "Welcome to My CyberArk Blog"
+title: PAM Tutorials
+layout: hextra-home
 ---
 
-## About This Website
+{{< hextra/hero-badge >}}
+  <div class="hx-w-2 hx-h-2 hx-rounded-full hx-bg-primary-400"></div>
+  <span>CyberArk PAM Resources</span>
+  {{< icon name="arrow-circle-right" attributes="height=14" >}}
+{{< /hextra/hero-badge >}}
 
-Welcome to my dedicated CyberArk blog! This website is a comprehensive resource for cybersecurity professionals, IT administrators, and anyone interested in learning about **CyberArk's Privileged Access Management (PAM)** solutions.
+<div class="hx-mt-6 hx-mb-6">
+{{< hextra/hero-headline >}}
+  Master CyberArk&nbsp;<br class="sm:hx-block hx-hidden" />Privileged Access Management
+{{< /hextra/hero-headline >}}
+</div>
 
-### What You'll Find Here
+<div class="hx-mb-12">
+{{< hextra/hero-subtitle >}}
+  Comprehensive tutorials, guides, and best practices&nbsp;<br class="sm:hx-block hx-hidden" />for CyberArk Privilege Cloud and PAM solutions
+{{< /hextra/hero-subtitle >}}
+</div>
 
-This blog focuses on sharing knowledge, tutorials, and best practices related to:
+<div class="hx-mb-6">
+{{< hextra/hero-button text="Get Started" link="/docs" >}}
+</div>
 
-- **CyberArk Privilege Cloud** - Cloud-based privileged access management
-- **Implementation Guides** - Step-by-step tutorials for deploying and configuring CyberArk solutions
-- **Security Best Practices** - Tips and strategies for securing privileged accounts
-- **Troubleshooting** - Common issues and their solutions
-- **Updates & Features** - Latest developments in the CyberArk ecosystem
+<div class="hx-mt-6"></div>
 
-### Who Is This For?
-
-Whether you're:
-- A **CyberArk Administrator** looking for implementation guidance
-- A **Security Professional** exploring PAM solutions
-- An **IT Manager** evaluating privileged access security
-- A **Student** learning about cybersecurity and access management
-
-You'll find valuable insights and practical knowledge here.
-
-### Mission
-
-My goal is to make CyberArk technologies more accessible by providing clear, practical tutorials and sharing real-world experiences. I believe in empowering the cybersecurity community with knowledge that helps protect organizations from privileged access threats.
-
-### Get Started
-
-Browse through the **Categories** to find topics of interest, or check out the **Tags** to explore specific CyberArk features and technologies. New content is added regularly, so be sure to check back often!
-
----
-
-*Stay secure, stay informed!*
+{{< hextra/feature-grid >}}
+  {{< hextra/feature-card
+    title="Implementation Guides"
+    subtitle="Step-by-step tutorials for deploying and configuring CyberArk solutions"
+    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
+    image="/images/implementation.svg"
+    imageClass="hx-top-[40%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
+  >}}
+  {{< hextra/feature-card
+    title="Security Best Practices"
+    subtitle="Industry-standard approaches to privileged access management"
+    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-lg:hx-min-h-[340px]"
+    image="/images/security.svg"
+    imageClass="hx-top-[40%] hx-left-[36px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(142,53,74,0.15),hsla(0,0%,100%,0));"
+  >}}
+  {{< hextra/feature-card
+    title="Troubleshooting"
+    subtitle="Solutions to common challenges and real-world scenarios"
+    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
+    image="/images/troubleshooting.svg"
+    imageClass="hx-top-[40%] hx-left-[36px] hx-w-[110%] sm:hx-w-[110%] dark:hx-opacity-80"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(221,210,59,0.15),hsla(0,0%,100%,0));"
+  >}}
+{{< /hextra/feature-grid >}}

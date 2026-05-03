@@ -30,13 +30,21 @@ enableEmoji = true
     name = "About"
     pageRef = "/about"
     weight = 3
+  [[menu.main]]
+    identifier = "github"
+    name = "GitHub"
+    url = "https://github.com/arunap886/mysite"
+    weight = 4
+    [menu.main.params]
+      icon = "github"
 
 [params]
   description = "Comprehensive tutorials and guides for CyberArk Privileged Access Management (PAM) solutions"
   
   [params.navbar]
     displayTitle = true
-    displayLogo = false
+    displayLogo = true
+    logo = "🔐"
     width = "wide"
 
   [params.page]
@@ -62,4 +70,4 @@ enableEmoji = true
   type = "flexsearch"
 
   [params.search.flexsearch]
-    index = "content"
+    index = ["content", "title", "description"]
