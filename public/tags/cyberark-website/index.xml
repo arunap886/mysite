@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PAM Tutorials – What&#39;s New in CyberArk</title>
-    <link>https://pamtutorials.com/whats-new/</link>
-    <description>Recent content in What&#39;s New in CyberArk on PAM Tutorials</description>
+    <title>PAM Tutorials – Cyberark-Website</title>
+    <link>https://pamtutorials.com/tags/cyberark-website/</link>
+    <description>Recent content in Cyberark-Website on PAM Tutorials</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 May 2026 23:48:41 +0530</lastBuildDate>
     
-	  <atom:link href="https://pamtutorials.com/whats-new/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://pamtutorials.com/tags/cyberark-website/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -166,67 +166,6 @@
 
 &lt;hr&gt;
 &lt;p&gt;&lt;em&gt;Have you noticed any other changes or improvements? Let us know in the comments or reach out through our &lt;a href=&#34;https://pamtutorials.com/about/&#34;&gt;About page&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>CyberArk May 2026 Updates</title>
-      <link>https://pamtutorials.com/whats-new/2026-05-cyberark-updates/</link>
-      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://pamtutorials.com/whats-new/2026-05-cyberark-updates/</guid>
-      <description>
-        
-        
-        &lt;h2&gt;CyberArk Privilege Cloud - May 2026 Release&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;cyberark-privilege-cloud---may-2026-release&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#cyberark-privilege-cloud---may-2026-release&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;CyberArk has announced several exciting updates and new features for Privilege Cloud this month.&lt;/p&gt;
-&lt;h3&gt;🎉 New Features&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-new-features&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#-new-features&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;Enhanced Session Monitoring&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;enhanced-session-monitoring&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#enhanced-session-monitoring&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;Real-time session analytics dashboard&lt;/li&gt;
-&lt;li&gt;Advanced threat detection algorithms&lt;/li&gt;
-&lt;li&gt;Automated response capabilities&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;Improved User Experience&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;improved-user-experience&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#improved-user-experience&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;Redesigned web interface with modern UI&lt;/li&gt;
-&lt;li&gt;Faster credential retrieval&lt;/li&gt;
-&lt;li&gt;Mobile app enhancements&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;API Enhancements&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;api-enhancements&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#api-enhancements&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;New REST API endpoints for automation&lt;/li&gt;
-&lt;li&gt;Improved webhook support&lt;/li&gt;
-&lt;li&gt;Enhanced integration capabilities&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;🔧 Improvements&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-improvements&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#-improvements&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Performance&lt;/strong&gt;: 30% faster credential rotation&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Security&lt;/strong&gt;: Enhanced encryption algorithms&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Compliance&lt;/strong&gt;: New audit report templates&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;📚 Documentation Updates&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-documentation-updates&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#-documentation-updates&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Updated API reference guide&lt;/li&gt;
-&lt;li&gt;New integration tutorials&lt;/li&gt;
-&lt;li&gt;Enhanced troubleshooting guides&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;🔗 Resources&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-resources&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#-resources&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.cyberark.com&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Official Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://pamtutorials.com/docs/migration&#34;&gt;Migration Guide&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://pamtutorials.com/docs/api&#34;&gt;API Documentation&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;div class=&#34;hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-amber-200 hx:bg-amber-100 hx:text-amber-900 hx:dark:border-amber-200/30 hx:dark:bg-amber-900/30 hx:dark:text-amber-200&#34;&gt;
-  &lt;div class=&#34;hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2&#34;&gt;&lt;svg height=1.2em class=&#34;hx:inline-block hx:align-middle&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z&#34;/&gt;&lt;/svg&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;hx:w-full hx:min-w-0 hx:leading-7&#34;&gt;
-    &lt;div class=&#34;hx:mt-6 hx:leading-7 hx:first:mt-0&#34;&gt;&lt;strong&gt;Action Required&lt;/strong&gt;: If you&amp;rsquo;re using legacy authentication methods, please review the &lt;a href=&#34;https://pamtutorials.com/docs/migration&#34;&gt;migration guide&lt;/a&gt; before the deprecation date.&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
 
       </description>
     </item>
