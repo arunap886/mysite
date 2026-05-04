@@ -2,28 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://pamtutorials.com/whats-new/2026-05-cyberark-updates/</loc>
+    <lastmod>2026-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pamtutorials.com/whats-new/</loc>
+    <lastmod>2026-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pamtutorials.com/tags/new-features/</loc>
+    <lastmod>2026-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pamtutorials.com/</loc>
+    <lastmod>2026-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pamtutorials.com/tags/privilege-cloud/</loc>
+    <lastmod>2026-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pamtutorials.com/tags/</loc>
+    <lastmod>2026-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pamtutorials.com/tags/updates/</loc>
+    <lastmod>2026-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pamtutorials.com/categories/</loc>
     <lastmod>2026-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cyberark/</loc>
+    <loc>https://pamtutorials.com/tags/cyberark/</loc>
     <lastmod>2026-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/cyberark/</loc>
+    <loc>https://pamtutorials.com/categories/cyberark/</loc>
     <lastmod>2026-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
+    <loc>https://pamtutorials.com/posts/my-first-post/</loc>
     <lastmod>2026-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://pamtutorials.com/tags/getting-started/</loc>
     <lastmod>2026-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/privilegecloud/</loc>
+    <loc>https://pamtutorials.com/posts/</loc>
     <lastmod>2026-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://pamtutorials.com/tags/privilegecloud/</loc>
     <lastmod>2026-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
+    <loc>https://pamtutorials.com/about/</loc>
+  </url><url>
+    <loc>https://pamtutorials.com/archives/</loc>
+  </url><url>
+    <loc>https://pamtutorials.com/docs/</loc>
+  </url><url>
+    <loc>https://pamtutorials.com/search/</loc>
   </url>
 </urlset>

@@ -52,4 +52,26 @@ layout: hextra-home
     imageClass="hx-top-[40%] hx-left-[36px] hx-w-[110%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(221,210,59,0.15),hsla(0,0%,100%,0));"
   >}}
+  {{< hextra/feature-card
+    title="What's New"
+    subtitle="Latest CyberArk updates, features, and announcements"
+    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
+    image="/images/updates.svg"
+    imageClass="hx-top-[40%] hx-left-[36px] hx-w-[110%] sm:hx-w-[110%] dark:hx-opacity-80"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(59,130,246,0.15),hsla(0,0%,100%,0));"
+    link="/whats-new"
+  >}}
 {{< /hextra/feature-grid >}}
+
+---
+
+## 📬 Stay Updated
+
+{{< callout type="info" emoji="🔔" >}}
+**Subscribe to Updates**  
+Get notified about new tutorials, CyberArk feature releases, and security best practices.
+
+- 📰 [RSS Feed](/index.xml) - Subscribe via your favorite RSS reader
+- 🆕 [What's New](/whats-new) - Latest CyberArk updates
+- 📝 [Blog](/posts) - Tutorials and guides
+{{< /callout >}}

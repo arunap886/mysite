@@ -23,13 +23,17 @@ enableEmoji = true
     pageRef = "/docs"
     weight = 1
   [[menu.main]]
+    name = "What's New"
+    pageRef = "/whats-new"
+    weight = 2
+  [[menu.main]]
     name = "Blog"
     pageRef = "/posts"
-    weight = 2
+    weight = 3
   [[menu.main]]
     name = "About"
     pageRef = "/about"
-    weight = 3
+    weight = 4
 
 [params]
   description = "Comprehensive tutorials and guides for CyberArk Privileged Access Management (PAM) solutions"

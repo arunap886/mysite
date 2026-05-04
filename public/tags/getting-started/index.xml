@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PAM Tutorials – CyberArk</title>
-    <link>https://pamtutorials.com/categories/cyberark/</link>
-    <description>Recent content in CyberArk on PAM Tutorials</description>
+    <title>PAM Tutorials – Getting-Started</title>
+    <link>https://pamtutorials.com/tags/getting-started/</link>
+    <description>Recent content in Getting-Started on PAM Tutorials</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Apr 2026 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="https://pamtutorials.com/categories/cyberark/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://pamtutorials.com/tags/getting-started/index.xml" rel="self" type="application/rss+xml" />
     
     
       
