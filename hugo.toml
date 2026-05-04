@@ -35,6 +35,15 @@ enableEmoji = true
     pageRef = "/about"
     weight = 4
 
+  [[menu.footer]]
+    name = "Privacy Policy"
+    pageRef = "/privacy"
+    weight = 1
+  [[menu.footer]]
+    name = "About"
+    pageRef = "/about"
+    weight = 2
+
 [params]
   description = "Comprehensive tutorials and guides for CyberArk Privileged Access Management (PAM) solutions"
   

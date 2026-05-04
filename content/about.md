@@ -52,6 +52,11 @@ Have questions, suggestions, or topics you'd like us to cover? We'd love to hear
 
 - **RSS Feed**: Subscribe to stay updated with new content
 
+### Privacy & Legal
+
+- **Privacy Policy**: We respect your privacy. Read our [Privacy Policy](/privacy) to learn how we handle your data.
+- **Cookies**: We use cookies to improve your experience and display relevant ads.
+
 ### Disclaimer
 
 This blog is an independent educational resource and is not officially affiliated with CyberArk Software Ltd. All product names, logos, and brands are property of their respective owners.
