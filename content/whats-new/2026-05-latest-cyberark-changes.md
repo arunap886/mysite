@@ -10,7 +10,7 @@ summary: "Recent updates and changes to the CyberArk website, including new feat
 
 CyberArk has recently updated their official website with several improvements and new features. Here's a comprehensive overview of what's changed.
 
-![CyberArk Docs Homepage](/images/cyberark-docs-homepage.png)
+![CyberArk Docs Homepage](https://pamtutorials.com/images/cyberark-docs-homepage.png)
 *New CyberArk Documentation Portal with improved navigation and space-based organization*
 
 ### 🎨 User Interface Changes
