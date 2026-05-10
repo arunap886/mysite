@@ -4,7 +4,7 @@ crossorigin="anonymous"></script>
 
 <!-- Additional Meta Tags for Professional Look -->
 <meta name="theme-color" content="#2563eb">
-<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
 <!-- Open Graph / Facebook -->
@@ -34,3 +34,23 @@ code, pre {
     font-family: var(--font-code);
 }
 </style>
+
+<!-- Error Handling for Search and Other Scripts -->
+<script>
+// Suppress common extension errors
+window.addEventListener('error', function(e) {
+  // Suppress chrome extension errors
+  if (e.filename && (e.filename.includes('chrome-extension://') || e.filename.includes('moz-extension://'))) {
+    e.preventDefault();
+    return true;
+  }
+}, true);
+
+// Suppress unhandled promise rejections from extensions
+window.addEventListener('unhandledrejection', function(e) {
+  if (e.reason && e.reason.message && e.reason.message.includes('message channel closed')) {
+    e.preventDefault();
+    return true;
+  }
+});
+</script>

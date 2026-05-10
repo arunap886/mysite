@@ -76,4 +76,5 @@ enableEmoji = true
   type = "flexsearch"
 
   [params.search.flexsearch]
-    index = "content"
+    index = ["content", "title"]
+    tokenize = "forward"
