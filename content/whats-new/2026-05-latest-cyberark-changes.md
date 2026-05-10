@@ -10,8 +10,10 @@ summary: "Recent updates and changes to the CyberArk website, including new feat
 
 CyberArk has recently updated their official website with several improvements and new features. Here's a comprehensive overview of what's changed.
 
-![CyberArk Docs Homepage](/images/cyberark-docs-homepage.png?v=2)
-*New CyberArk Documentation Portal with improved navigation and space-based organization*
+{{< callout type="info" emoji="🌐" >}}
+**New Documentation Portal Design**  
+The CyberArk documentation portal features a completely redesigned interface with improved navigation, space-based organization, and a modern, user-friendly layout. Visit [docs.cyberark.com](https://docs.cyberark.com) to explore the new design.
+{{< /callout >}}
 
 ### 🎨 User Interface Changes
 
