@@ -46,6 +46,7 @@ enableEmoji = true
 
 [params]
   description = "Comprehensive tutorials and guides for CyberArk Privileged Access Management (PAM) solutions"
+  googleAdsense = "ca-pub-9493926885795453"
   
   [params.navbar]
     displayTitle = true
