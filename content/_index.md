@@ -5,24 +5,30 @@ layout: hextra-home
 
 {{< hextra/hero-badge >}}
   <div class="hx-w-2 hx-h-2 hx-rounded-full hx-bg-primary-400"></div>
-  <span>CyberArk PAM Resources</span>
+  <span>🔐 CyberArk PAM Resources</span>
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
 
 <div class="hx-mt-6 hx-mb-6">
 {{< hextra/hero-headline >}}
-  Master CyberArk&nbsp;<br class="sm:hx-block hx-hidden" />Privileged Access&nbsp;<br class="sm:hx-block hx-hidden" />Management
+  Master CyberArk Privileged Access Management
 {{< /hextra/hero-headline >}}
 </div>
 
 <div class="hx-mb-12">
 {{< hextra/hero-subtitle >}}
-  Comprehensive tutorials, guides, and best practices for&nbsp;<br class="sm:hx-block hx-hidden" />CyberArk Privilege Cloud and PAM solutions
+  Your complete guide to CyberArk PAM — from implementation to advanced security practices. Learn through comprehensive tutorials, real-world examples, and expert insights.
 {{< /hextra/hero-subtitle >}}
 </div>
 
 <div class="hx-mb-6">
-{{< hextra/hero-button text="Get Started" link="/docs" >}}
+{{< hextra/hero-button text="Get Started →" link="/docs" >}}
+</div>
+
+<div class="hx-mt-12 hx-mb-6">
+<p style="text-align: center; color: rgba(255,255,255,0.6); font-size: 0.875rem;">
+  Trusted by security professionals • Updated regularly • 100% free
+</p>
 </div>
 
 <div class="hx-mt-6"></div>

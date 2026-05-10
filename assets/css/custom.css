@@ -4,30 +4,57 @@
 
 /* Typography Improvements */
 :root {
-  --font-size-hero: 3.5rem;
-  --font-size-subtitle: 1.25rem;
+  --font-size-hero: 3.75rem;
+  --font-size-subtitle: 1.375rem;
   --line-height-relaxed: 1.7;
   --color-accent: #3b82f6;
   --color-accent-hover: #2563eb;
+  --color-gradient-start: #60a5fa;
+  --color-gradient-end: #a78bfa;
+}
+
+/* Hero Section Background */
+.hextra-home-layout {
+  position: relative;
+}
+
+.hextra-home-layout::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 600px;
+  background: radial-gradient(ellipse 80% 50% at 50% -20%, rgba(59, 130, 246, 0.3), transparent);
+  pointer-events: none;
+  z-index: 0;
+}
+
+.dark .hextra-home-layout::before {
+  background: radial-gradient(ellipse 80% 50% at 50% -20%, rgba(59, 130, 246, 0.2), transparent);
 }
 
 /* Hero Section Enhancements */
 .hextra-hero-headline {
   font-size: var(--font-size-hero) !important;
-  font-weight: 800 !important;
-  line-height: 1.1 !important;
-  letter-spacing: -0.02em !important;
-  background: linear-gradient(135deg, #ffffff 0%, #e0e7ff 100%);
+  font-weight: 900 !important;
+  line-height: 1.15 !important;
+  letter-spacing: -0.03em !important;
+  background: linear-gradient(135deg, #ffffff 0%, #60a5fa 50%, #a78bfa 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
+  text-shadow: 0 0 40px rgba(96, 165, 250, 0.3);
+  position: relative;
+  z-index: 1;
 }
 
 .dark .hextra-hero-headline {
-  background: linear-gradient(135deg, #ffffff 0%, #93c5fd 100%);
+  background: linear-gradient(135deg, #ffffff 0%, #60a5fa 50%, #c084fc 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
+  text-shadow: 0 0 60px rgba(96, 165, 250, 0.4);
 }
 
 .hextra-hero-subtitle {
