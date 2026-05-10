@@ -11,13 +11,13 @@ layout: hextra-home
 
 <div class="hx-mt-6 hx-mb-6">
 {{< hextra/hero-headline >}}
-  Master CyberArk&nbsp;<br class="sm:hx-block hx-hidden" />Privileged Access Management
+  Master CyberArk&nbsp;<br class="sm:hx-block hx-hidden" />Privileged Access&nbsp;<br class="sm:hx-block hx-hidden" />Management
 {{< /hextra/hero-headline >}}
 </div>
 
 <div class="hx-mb-12">
 {{< hextra/hero-subtitle >}}
-  Comprehensive tutorials, guides, and best practices&nbsp;<br class="sm:hx-block hx-hidden" />for CyberArk Privilege Cloud and PAM solutions
+  Comprehensive tutorials, guides, and best practices for&nbsp;<br class="sm:hx-block hx-hidden" />CyberArk Privilege Cloud and PAM solutions
 {{< /hextra/hero-subtitle >}}
 </div>
 
