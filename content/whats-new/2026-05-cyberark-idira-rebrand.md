@@ -1,5 +1,5 @@
 ---
-title: "CyberArk Evolves: Meet Idira™, the Future of Identity Security"
+title: "Meet Idira™, the Future of Identity Security"
 date: 2026-05-12T23:29:00+05:30
 weight: 1
 tags: ["rebrand", "idira", "identity-security", "major-update", "announcement"]
