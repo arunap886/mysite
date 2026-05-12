@@ -6,74 +6,75 @@ tags: ["rebrand", "idira", "identity-security", "major-update", "announcement"]
 summary: "CyberArk introduces Idira™, the next-generation identity security platform. Learn about the rebranding changes rolling out starting May 31, 2026."
 ---
 
-## CyberArk Evolves: Meet Idira™, the Future of Identity Security
+## A New Era in Identity Security: Introducing Idira™
 
-CyberArk has long been your trusted partner for securing privilege and defending your critical assets. Now, we're introducing **Idira™**, the next-generation identity security platform, built on CyberArk's legacy and powered by Palo Alto Networks.
+For years, CyberArk has been the industry leader in privileged access management and identity security. Today marks an exciting evolution as CyberArk transforms into **Idira™** — a cutting-edge identity security platform that combines CyberArk's proven expertise with the innovative technology of Palo Alto Networks.
 
 {{< callout type="warning" emoji="📅" >}}
-**Important Date: May 31, 2026**  
-Beginning May 31, 2026, you will begin to see brand changes with your CyberArk, now Idira, products and services. These changes will be gradually rolled out in a phased approach, designed to emphasize our new brand and name, while minimizing the impact on your environment.
+**Mark Your Calendar: May 31, 2026**  
+Starting May 31, 2026, the CyberArk brand will transition to Idira across all products and services. This transformation will occur gradually through a carefully planned rollout strategy to ensure minimal disruption to your operations while introducing the new brand identity.
 {{< /callout >}}
 
-## 🎨 Phase 1: Visual Rebrand (Starting May 31, 2026)
+## 🎨 Initial Rollout Phase: Visual Identity Update (May 31, 2026)
 
-Phase 1 focuses on visual elements in the product user interface (UI):
+The first phase of the rebrand concentrates on updating the visual appearance throughout the product ecosystem:
 
-- ✅ **Updated logo** across all products
-- ✅ **New illustrations** and visual elements
-- ✅ **Name changes** from CyberArk to Idira
-- ✅ **Product documentation** updates
-- ✅ **Automated emails** (status page and platform services)
+- ✅ **Brand new logo design** implemented across all product interfaces
+- ✅ **Refreshed graphics and imagery** throughout the platform
+- ✅ **Complete brand terminology update** replacing CyberArk with Idira
+- ✅ **Comprehensive documentation refresh** with updated branding
+- ✅ **System-generated communications** including status notifications and service emails
 
 ## 📦 Product-Specific Changes
 
-### Identity Security Platform SaaS Customers
+### Cloud-Based Identity Security Platform Users
 
 {{< callout type="info" emoji="☁️" >}}
-**CyberArk Identity Security Platform** → **Idira Identity Security Platform**
-
-The update will be available **automatically** when rolled out to your tenant.
+**Transformation Details**  
+The CyberArk Identity Security Platform will be rebranded as the Idira Identity Security Platform. This change will be deployed **automatically** to your tenant environment without requiring any action on your part.
 {{< /callout >}}
 
-### Standalone Customers
+### Standalone Solution Customers
 
-**Identity Standalone** and **Privilege Cloud Standalone** customers:
-- Same rollout process as Identity Security Platform
-- Automatic updates when rolled out to your tenant
+For organizations using **Identity Standalone** or **Privilege Cloud Standalone** deployments:
+- The rebranding follows the same automated deployment process
+- Updates will be pushed to your tenant automatically during the rollout window
+- No manual intervention required from your team
 
-### Self-Hosted Customers
+### On-Premises Deployment Customers
 
-Rebrand packages will be available as part of upcoming version releases (May, June, July 2026):
+Organizations managing their own infrastructure will receive rebranding packages through scheduled version updates between May and July 2026:
 
-| Product | Version |
-|---------|---------|
+| Product | Updated Version |
+|---------|----------------|
 | **Privilege Access Manager Self-Hosted** | V15.2 |
 | **Credentials Provider** | V15.2 |
 | **Secrets Manager, Self-Hosted** | V13.9 |
 
-### Machine Identity Security Customers
+### Machine Identity Security Users
 
-Two segments with different rebrand changes:
-- **Secrets Management**
-- **Certificates and PKI**
+The rebrand affects two distinct product categories, each with tailored implementation approaches:
+- **Secrets Management Solutions**
+- **Certificate and PKI Services**
 
 {{< callout type="info" emoji="📖" >}}
-**Learn More**: Review the [detailed FAQ](https://community.cyberark.com) for specific changes to each segment.
+**Additional Information**: Consult the [comprehensive FAQ documentation](https://community.cyberark.com) for detailed guidance on changes specific to your product category.
 {{< /callout >}}
 
-### FedRAMP Customers
+### Federal Government Sector (FedRAMP)
 
-- **FedRAMP Marketplace** updated beginning May 31, 2026
-- **Product documentation** updated at the same time
-- **Authorization details** available in marketplace
+Organizations operating under FedRAMP compliance requirements can expect:
+- **Marketplace Updates**: The FedRAMP Marketplace will reflect the new branding effective May 31, 2026
+- **Documentation Synchronization**: All product documentation will be updated concurrently with the marketplace changes
+- **Authorization Information**: Complete authorization details will be accessible through the updated marketplace listing
 
-## 📚 Resources to Support You
+## 📚 Helpful Resources and Documentation
 
-### Essential Documentation
+### Key Reference Materials
 
-- 📖 **[Detailed FAQ Guide](https://community.cyberark.com)** - CyberArk is now Idira™: Frequently Asked Questions
-- 📰 **[Press Release](https://www.cyberark.com/press-releases/)** - Official announcement
-- 💡 **[Community Knowledge Article](https://community.cyberark.com)** - Platform redesign and new capabilities
+- 📖 **[Complete FAQ Resource](https://community.cyberark.com)** - Comprehensive answers about the Idira™ transition
+- 📰 **[Official Press Announcement](https://www.cyberark.com/press-releases/)** - Read the full public statement
+- 💡 **[Platform Enhancement Guide](https://community.cyberark.com)** - Information about the redesigned platform and new features
 
 ### Key Resources
 
@@ -84,87 +85,87 @@ Two segments with different rebrand changes:
 - [Support Portal](https://cyberark-customers.force.com/s/)
 {{< /callout >}}
 
-## ⚠️ Important Considerations
+## ⚠️ Critical Information for System Administrators
 
-### Automated Email Notifications
+### Email Automation Impact Assessment
 
 {{< callout type="warning" emoji="⚡" >}}
-**Action Required for Automation Users**
+**Immediate Action Needed for Automation Workflows**
 
-If you use automations triggered by product-generated automated email notifications (status page or platform services):
-- ✅ **Review your configurations**
-- ⚠️ **Display name changes** may impact workflows
-- ⚠️ **Subject line changes** may affect triggers
-- 🔧 **Update automation rules** accordingly
+Organizations utilizing automated workflows triggered by system-generated email notifications should take note:
+- ✅ **Audit existing automation configurations** to identify potential impacts
+- ⚠️ **Sender name modifications** could disrupt email-based workflows
+- ⚠️ **Subject line alterations** may break automation triggers
+- 🔧 **Proactively update automation rules** to accommodate the new branding
 {{< /callout >}}
 
-### Documentation Timeline
+### Documentation Release Schedule
 
-- 📅 **May 31, 2026**: Product documentation rebranded
-- 🔄 **Simultaneous release**: Documentation and product UI updates
-- 📝 **Continuous updates**: Documentation updated as changes roll out
+- 📅 **Launch Date**: All product documentation will transition to Idira branding on May 31, 2026
+- 🔄 **Coordinated Deployment**: Documentation and UI updates will be released simultaneously
+- 📝 **Ongoing Maintenance**: Documentation will be continuously refined throughout the transition period
 
-### Platform Redesign
+### Platform Modernization Initiative
 
 {{< callout type="info" emoji="🎨" >}}
-**Additional Changes**
+**Beyond the Rebrand**
 
-These brand changes are in addition to the redesigned platform with new capabilities that began rolling out in early May 2026. Learn more in our [Community Knowledge Article](https://community.cyberark.com).
+The visual identity changes complement a broader platform modernization effort that launched in early May 2026, introducing enhanced capabilities and improved user experience. Explore the details in our [Community Knowledge Article](https://community.cyberark.com).
 {{< /callout >}}
 
-## 🗓️ Rollout Timeline
+## 🗓️ Implementation Timeline
 
-### May 31, 2026
-- ✅ Phase 1 visual rebrand begins
-- ✅ SaaS and Standalone automatic updates
-- ✅ FedRAMP Marketplace updated
-- ✅ Product documentation released
+### Kickoff: May 31, 2026
+- ✅ Initial visual rebrand deployment commences
+- ✅ Cloud-based platforms receive automatic updates
+- ✅ FedRAMP Marketplace reflects new branding
+- ✅ Refreshed documentation becomes available
 
-### May - July 2026
-- ✅ Self-hosted version releases
-- ✅ Gradual rollout to all tenants
-- ✅ Continuous documentation updates
+### Extended Rollout: May Through July 2026
+- ✅ On-premises version packages released progressively
+- ✅ Phased deployment across all tenant environments
+- ✅ Documentation continuously enhanced and expanded
 
-## 💡 What This Means for You
+## 💡 Impact on Your Organization
 
-### For Administrators
+### System Administrator Responsibilities
 
-1. **Review automation configurations** - Check email-triggered workflows
-2. **Update internal documentation** - Reflect new branding
-3. **Communicate with teams** - Inform users about changes
-4. **Plan for self-hosted upgrades** - Schedule version updates
+1. **Workflow Audit** - Examine and test all email-triggered automation processes
+2. **Internal Documentation** - Update organizational materials to reflect Idira branding
+3. **Stakeholder Communication** - Brief team members on the upcoming visual changes
+4. **Upgrade Planning** - For self-hosted environments, coordinate version update schedules
 
-### For End Users
+### End User Experience
 
-1. **Expect visual changes** - New logo and branding
-2. **Same functionality** - No feature changes in Phase 1
-3. **Updated documentation** - New help resources
-4. **Seamless transition** - Minimal disruption to workflows
+1. **Visual Refresh** - Anticipate updated logos, colors, and branding elements throughout the interface
+2. **Functional Continuity** - Core features and capabilities remain unchanged during Phase 1
+3. **Help Resources** - Access newly branded documentation and support materials
+4. **Business Continuity** - Day-to-day operations continue without interruption
 
-## 🤝 Support and Assistance
+## 🤝 Getting Help During the Transition
 
-Need help with the transition?
+Multiple support channels are available to assist you throughout this transformation:
 
-- 💬 **Community Forums**: [CyberArk Community](https://cyberark-customers.force.com/s/)
-- 📧 **Support Portal**: Submit a support ticket
-- 📖 **Documentation**: [docs.cyberark.com](https://docs.cyberark.com)
-- ❓ **FAQ Guide**: Comprehensive answers to common questions
+- 💬 **Community Discussion Forums**: Connect with peers at [CyberArk Community](https://cyberark-customers.force.com/s/)
+- 📧 **Technical Support**: Open a support case through the customer portal
+- 📖 **Product Documentation**: Browse comprehensive guides at [docs.cyberark.com](https://docs.cyberark.com)
+- ❓ **Transition FAQ**: Find detailed answers to frequently asked questions
 
-## 🔮 Looking Forward
+## 🔮 The Vision Behind Idira™
 
-The introduction of Idira™ represents CyberArk's commitment to:
+This transformation reflects a strategic commitment to advancing identity security:
 
-- 🔒 **Enhanced security** - Next-generation identity protection
-- 🚀 **Innovation** - Powered by Palo Alto Networks technology
-- 🌐 **Unified platform** - Comprehensive identity security
-- 📈 **Continuous improvement** - Regular updates and enhancements
+- 🔒 **Advanced Protection** - Leveraging next-generation security technologies
+- 🚀 **Accelerated Innovation** - Combining expertise from CyberArk and Palo Alto Networks
+- 🌐 **Integrated Ecosystem** - Delivering a unified approach to identity security challenges
+- 📈 **Ongoing Evolution** - Committed to continuous platform enhancements
 
 {{< callout type="success" emoji="🎉" >}}
-**Stay Updated**
+**Never Miss an Update**
 
-Subscribe to our [RSS feed](/whats-new/index.xml) to receive notifications about future updates and announcements related to the Idira™ transition.
+Stay informed about the Idira™ evolution by subscribing to our [RSS feed](/whats-new/index.xml). Receive timely notifications about new developments, features, and important announcements.
 {{< /callout >}}
 
 ---
 
-*Have questions about the Idira™ rebrand? Visit the [CyberArk Community](https://cyberark-customers.force.com/s/) or check out our comprehensive [FAQ guide](https://community.cyberark.com).*
+*Questions about the transition to Idira™? Connect with the community at [CyberArk Community](https://cyberark-customers.force.com/s/) or explore our detailed [FAQ resource](https://community.cyberark.com) for comprehensive guidance.*
